@@ -1,0 +1,12 @@
+{
+	"geode": "5.9.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081"
+	},
+	"id": "helloworld1246.cool-utils",
+	"name": "helloworld1246's cool utils",
+	"version": "v1.0.0",
+	"developer": "helloworld1246",
+	"description": "Cheat menu opened from the pause menu: orb/pad auto clicks, auto fly/ufo, autoclickers, noclip and more."
+}
